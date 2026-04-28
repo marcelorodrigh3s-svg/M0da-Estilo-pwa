@@ -1,0 +1,27 @@
+📁 moda-estilo-pwa/
+│
+├── 📁 backend/
+│   ├── 📁 src/
+│   │   ├── 📁 database/
+│   │   │   ├── connection.js
+│   │   │   └── schema.sql
+│   │   └── index.js
+│   └── package.json
+│
+├── 📁 frontend/
+│   ├── 📁 public/
+│   │   ├── index.html
+│   │   └── manifest.json
+│   ├── 📁 src/
+│   │   ├── 📁 components/
+│   │   │   ├── Dashboard.js
+│   │   │   ├── Produtos.js
+│   │   │   ├── Clientes.js
+│   │   │   ├── Vendas.js
+│   │   │   └── Relatorios.js
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   └── index.js
+│   └── package.json
+│
+└── README.md
